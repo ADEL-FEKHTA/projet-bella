@@ -1,0 +1,289 @@
+/*@media all screen {
+
+    height: 4423px;
+    width: 100%;
+    left: -6288px;
+    top: -4109px;
+    border-radius: 0px;
+    position: relative;
+    width: 1440px;
+    height: 4423px;
+    background: #FFFFFF;
+    https://fonts.googleapis.com/css?family=Montserrat&display=swap
+    https://fonts.googleapis.com/css?family=Poppins&display=swap
+    https://fonts.googleapis.com/css?family=Roboto&display=swap
+    img class=img-responsive src=IMG
+
+}*/
+
+/*body {
+    
+   
+}*/
+
+/*header {
+
+    
+}*/
+
+/*a {
+
+    text-decoration: none;
+
+}*/
+
+/*header {
+    
+    
+}*/
+
+/*.logoj {
+
+   
+}*/
+
+nav {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        
+}
+
+/*.imghome {
+
+    
+}*/
+
+.Foodapp {
+
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+color: #F7F7F7;
+
+}
+
+.textnospizza {
+
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #000000;
+opacity: 0.8;
+
+}
+
+.imgpizza {
+
+    margin: 40px;
+    height: 230px;
+    
+}
+
+.Rectangle {
+
+    width  : 500px;
+    height: 630px;
+    border: 3px solid #FA4A0C;
+    
+    
+}
+
+.textpizza4 {
+
+    margin: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #000000;
+
+}
+
+.button {
+
+    left: 260px;
+    position: absolute;
+}
+
+.Rectangle1 {
+
+    left: 700px;
+    top: 860px;
+    position: absolute;
+    width: 500px;
+    height: 630px;
+    background: #FFFFFF;
+    border: 3px solid #FA4A0C;
+
+}
+
+.Rectangle2 {
+
+    left: 1390px;
+    top: 860px;
+    position: absolute;
+    width: 500px;
+    height: 630px;
+    background: #FFFFFF;
+    border: 3px solid #FA4A0C;
+
+}
+
+.textnosburgers {
+
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    opacity: 0.8;
+    
+}
+
+.imgburger {
+
+    margin: 40px;
+    height: 230px;
+    
+}
+
+.Rectangle3 {
+
+    width  : 500px;
+    height: 630px;
+    border: 3px solid #FA4A0C;
+
+}
+
+.Rectangle4 {
+
+    position: absolute;
+    left: 700px;
+    top: 1610px;
+    width: 500px;
+    height: 630px;
+    border: 3px solid #FA4A0C;
+
+}
+
+.Rectangle5 {
+
+    position: absolute;
+    left: 1390px;
+    top: 1610px;
+    width: 500px;
+    height: 630px;
+    border: 3px solid #FA4A0C;
+
+}
+
+.textnossalades {
+
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    opacity: 0.8;
+
+}
+
+.imgnossalades {
+
+    margin: 40px;
+    height: 230px;
+
+}
+
+.Rectangle6 {
+
+    width  : 500px;
+    height: 630px;
+    border: 3px solid #FA4A0C;
+
+}
+
+.Rectangle7 {
+
+    left: 700px;
+    top: 2370px;
+    position: absolute;
+    width: 500px;
+    height: 630px;
+    background: #FFFFFF;
+    border: 3px solid #FA4A0C;
+
+}
+
+.Rectangle8 {
+
+    left: 1380px;
+    top: 2370px;
+    position: absolute;
+    width: 500px;
+    height: 630px;
+    background: #FFFFFF;
+    border: 3px solid #FA4A0C;
+
+}
+
+.titretext {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    color: #000000;
+
+}
+
+.textimgfooterBonneappétit {
+
+    position: absolute;
+    width: 1530px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 0px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    /*color: #FFFFFF;*/
+
+}
+
+
+/*.imgfooter {
+
+    
+}*/
+
+footer {
+
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    width: 1210px;
+    
+}
+
